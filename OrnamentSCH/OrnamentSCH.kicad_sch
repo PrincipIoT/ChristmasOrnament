@@ -1612,6 +1612,9 @@
     (property "Datasheet" "~" (at 201.93 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "DIGIKEY" "401-1999-1-ND" (at 201.93 85.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 8cc603b8-5f43-453b-8221-a4bdf244db83))
     (pin "2" (uuid c71e60cb-464e-47cf-9317-0912debfe96e))
     (instances
