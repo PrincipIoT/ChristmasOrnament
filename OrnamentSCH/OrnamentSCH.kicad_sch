@@ -692,6 +692,9 @@
   (junction (at 241.3 52.07) (diameter 0) (color 0 0 0 0)
     (uuid d7979950-5299-4063-8a6e-31b5df6b902c)
   )
+  (junction (at 219.71 36.83) (diameter 0) (color 0 0 0 0)
+    (uuid d8bcedff-705d-464d-92e1-152696390a4e)
+  )
 
   (no_connect (at 185.42 82.55) (uuid 6a52b662-1186-4393-b1a1-03db2d1ca221))
   (no_connect (at 205.74 93.98) (uuid f3b48e2a-871b-40ba-ad05-a8839cd34b7b))
@@ -1608,6 +1611,31 @@
       (project "OrnamentSCH"
         (path "/1623205b-d528-405e-8257-67afe9052d25"
           (reference "#PWR03") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:PWR_FLAG") (at 219.71 36.83 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 5d37d079-d715-4cbc-ba77-ff346959e95c)
+    (property "Reference" "#FLG03" (at 217.805 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "PWR_FLAG" (at 215.9 36.83 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 219.71 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 219.71 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 23d7cc32-209d-469e-ba0e-ac2c14afe2aa))
+    (instances
+      (project "OrnamentSCH"
+        (path "/1623205b-d528-405e-8257-67afe9052d25"
+          (reference "#FLG03") (unit 1)
         )
       )
     )
