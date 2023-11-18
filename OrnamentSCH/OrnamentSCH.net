@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\wzric\\OneDrive\\Documents\\GitHub\\ChristmasOrnament\\OrnamentSCH\\OrnamentSCH.kicad_sch")
-    (date "11/16/2023 12:26:55 PM")
+    (date "11/18/2023 1:56:46 PM")
     (tool "Eeschema 7.0.9")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -178,7 +178,7 @@
       (tstamps "e3a549d1-27b2-4dbf-9c4c-b16965cfff4b"))
     (comp (ref "J1")
       (value "Conn_01x02_Pin")
-      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Right")
       (fields
         (field (name "DIGIKEY") "732-5316-ND"))
       (libsource (lib "Connector") (part "Conn_01x02_Pin") (description "Generic connector, single row, 01x02, script generated"))
