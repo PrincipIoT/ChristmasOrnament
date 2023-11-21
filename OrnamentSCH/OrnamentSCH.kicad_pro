@@ -427,7 +427,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "OrnamentSCH.net",
-      "specctra_dsn": "",
+      "specctra_dsn": "OrnamentSCH.dsn",
       "step": "",
       "vrml": ""
     },
