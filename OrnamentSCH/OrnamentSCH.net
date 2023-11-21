@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\wzric\\OneDrive\\Documents\\GitHub\\ChristmasOrnament\\OrnamentSCH\\OrnamentSCH.kicad_sch")
-    (date "11/21/2023 9:31:22 AM")
+    (date "11/21/2023 11:09:22 AM")
     (tool "Eeschema 7.0.9")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
