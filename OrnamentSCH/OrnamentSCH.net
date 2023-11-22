@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\wzric\\OneDrive\\Documents\\GitHub\\ChristmasOrnament\\OrnamentSCH\\OrnamentSCH.kicad_sch")
-    (date "11/21/2023 11:09:22 AM")
+    (date "11/22/2023 12:10:55 PM")
     (tool "Eeschema 7.0.9")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -22,7 +22,7 @@
   (components
     (comp (ref "C1")
       (value "4.7uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
       (fields
         (field (name "DIGIKEY") "490-GRM035R60J475ME15JCT-ND"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
@@ -35,7 +35,7 @@
       (tstamps "b4a0572c-daf0-4ca3-9ba1-9b03ba3f7626"))
     (comp (ref "C2")
       (value ".1uF")
-      (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
       (fields
         (field (name "DIGIKEY") "490-5405-1-ND"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
