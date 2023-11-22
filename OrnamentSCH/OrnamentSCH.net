@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\wzric\\OneDrive\\Documents\\GitHub\\ChristmasOrnament\\OrnamentSCH\\OrnamentSCH.kicad_sch")
-    (date "11/22/2023 12:10:55 PM")
+    (date "11/22/2023 1:30:45 PM")
     (tool "Eeschema 7.0.9")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -480,8 +480,6 @@
       (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Switch.kicad_sym")))
   (nets
     (net (code "1") (name "+3V0")
-      (node (ref "C1") (pin "1") (pintype "passive"))
-      (node (ref "C2") (pin "1") (pintype "passive"))
       (node (ref "J1") (pin "1") (pinfunction "Pin_1") (pintype "passive"))
       (node (ref "SW1") (pin "1") (pinfunction "A") (pintype "passive")))
     (net (code "2") (name "/MISO")
@@ -512,6 +510,8 @@
       (node (ref "SW2") (pin "2") (pinfunction "B") (pintype "passive"))
       (node (ref "U1") (pin "7") (pinfunction "PB2") (pintype "bidirectional")))
     (net (code "8") (name "/VCC")
+      (node (ref "C1") (pin "1") (pintype "passive"))
+      (node (ref "C2") (pin "1") (pintype "passive"))
       (node (ref "J2") (pin "2") (pinfunction "Pin_2") (pintype "passive"))
       (node (ref "SW1") (pin "2") (pinfunction "B") (pintype "passive"))
       (node (ref "U1") (pin "8") (pinfunction "VCC") (pintype "power_in")))
