@@ -1,7 +1,11 @@
 # PCB Christmas Ornament
+![cover photo](https://github.com/PrincipIoT/ChristmasOrnament/blob/main/photo.jpg?raw=true)
+
 These are the design files for PrincipIoT's Christmas Tree PCB Ornament.
 
 This repository includes the KiCAD design files, schematic, and bill of materials in the `OrnamentSCH` folder, and software in the `OrnamentCode` file. The hex file for the compiled firmware is available on the releases page.
+
+These ornaments are available to purchase on [Etsy](https://principiot.etsy.com/listing/1627174457) and [Tindie](https://www.tindie.com/products/principiot/led-christmas-tree-ornament-twinkles/)
 
 # Flashing
 To flash the firmware to a board, use `avrdude` (it's included in the Arduino IDE). Make sure to have the [ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) installed as well.
