@@ -1,0 +1,13 @@
+Description,Part#,Link,QTY per unit,Identifier
+"RED LED @ 2V 5mA
+View Angle 130 Deg
+Wavelength 631nm",160-1830-1-ND,https://www.digikey.com/en/products/detail/liteon/LTST-C193KRKT-5A/2356244?s=N4IgTCBcDaIIwDYAMBaOAOAzKuKByAIiALoC%2BQA,5,"D10, D8, D6, D4, D2"
+"GREEN LED @ 3V 5mA
+View Angle 140 Deg
+Wavelength 530nm",404-1286-1-ND,https://www.digikey.com/en/products/detail/stanley-electric-co/THG1111C-0005-TR/8544260?s=N4IgTCBcDaICwAY4FoCMYAcA2NyByAIiALoC%2BQA,5,"D9, D7, D5, D3, D1"
+ATtiny25-20SUR,ATTINY25V-10SSU-ND,https://www.digikey.com/en/products/detail/microchip-technology/ATTINY25V-10SSU/1886243?s=N4IgTCBcDaIIIBUEEkByBNMBWAagWgEYAGAZRIFU9UAREAXQF8g,1,U1
+Slide Switch,401-1999-1-ND,https://www.digikey.com/en/products/detail/c-k/JS102011SAQN/1640095?s=N4IgTCBcDaICwAYCMBaJBOTaUDkAiIAugL5A,2,"SW1,SW2"
+4.7uF 0603 Cap,1276-1045-1-ND,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A475KQ8NNNC/3886703,1,C1
+560Ω SMD Resister 0603,118-CR0603-FX-5600ELFCT-ND,https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-5600ELF/3784091,5,"R9, R7, R5, R3, R1"
+180Ω SMD Resister 0603,311-180GRCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603JR-07180RL/726722,5,"R10, R8, R6, R4, R2"
+AAA Battery Holder,,https://www.amazon.com/LAMPVPATH-Battery-Holder-Leads-Wires/dp/B07CST9HKD/ref=sr_1_4?crid=G7FC6MNUWX7E&keywords=aaa+battery+holder+2+cell&qid=1700415874&sprefix=aaa+battery+holder+2+cell%2Caps%2C479&sr=8-4,1,
